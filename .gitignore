@@ -1,0 +1,6 @@
+.venv/
+.env
+__pychche__/
+htmlcov/
+allure-results/
+*.log
