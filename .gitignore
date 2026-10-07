@@ -1,6 +1,7 @@
 .venv/
 .env
-__pychche__/
+__pycache__/
+reports/
 htmlcov/
 allure-results/
 *.log
